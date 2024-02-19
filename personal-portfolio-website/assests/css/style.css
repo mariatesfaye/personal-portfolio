@@ -337,7 +337,7 @@ header .navbar ul li a:hover{
 
 /* about section starts */
 .about {
-  background: #f7f7f7; /* Update the background color to match the hero section */
+  background: #f7f7f7;
 }
 
 .about .row {
@@ -474,20 +474,20 @@ header .navbar ul li a:hover{
 /* skills section starts */
 .skills {
   min-height: 90vh;
-  background: #f7f7f7; /* Update the background color to match the hero section */
+  background: #f7f7f7; 
 }
 
 .skills h2 {
-  color: rgb(32, 32, 32); /* Update text color */
+  color: rgb(32, 32, 32);
 }
 
 .skills .heading span {
-  color: rgb(115, 3, 167); /* Update text color */
+  color: rgb(115, 3, 167);
 }
 
 .skills .container {
-  background: rgba(0, 0, 22, 0.4); /* Update background color */
-  color: #000; /* Update text color */
+  background: rgba(0, 0, 22, 0.4); 
+  color: #000; 
   border-radius: 1rem;
   padding: 2rem;
   width: 90%;
@@ -533,15 +533,15 @@ header .navbar ul li a:hover{
   font-weight: 500;
   font-family: "Poppins";
   margin-left: 0.5rem;
-  color: #fff; /* Update text color to make it visible */
-  text-align: center; /* Add text-align center to center-align the text */
+  color: #fff;
+  text-align: center;
 }
 
 .skills .container .bar .info button {
-  color: #000; /* Set button text color */
-  background-color: #fff; /* Set button background color */
-  border: none; /* Remove button border */
-  cursor: pointer; /* Add cursor pointer */
+  color: #000; 
+  background-color: #fff; 
+  border: none; 
+  cursor: pointer; 
 }
 
 /* skills media queries starts*/
@@ -565,9 +565,10 @@ header .navbar ul li a:hover{
 }
 /* skills media queries ends */
 /* skills section ends */
+
 /* education section starts */
 .education {
-  background: #f7f7f7; /* Match the background color of the hero section */
+  background: #f7f7f7;
   min-height: 80vh;
 }
 
@@ -691,11 +692,11 @@ header .navbar ul li a:hover{
 
 /* work section starts */
 .work {
-  background: #f7f7f7; /* Match the background color of the hero section */
+  background: #f7f7f7;
 }
 
 .work h2 {
-  color: rgb(32, 32, 32); /* Update text color */
+  color: rgb(32, 32, 32);
   padding: 1rem;
 }
 
