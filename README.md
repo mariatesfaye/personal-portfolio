@@ -11,8 +11,9 @@ The personal portfolio website shows my skills, projects, and education.
 
 - Home
 - About
-- Projects
 - Skills
+- Education
+- Projects
 - Contact
 
 ## Technologies Used
